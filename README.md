@@ -1,7 +1,12 @@
-# Swappland Market Contract Open-RPC Specification and Client
+# Varda Scarcity tools 
+Built to allow floor price control for large NFT collections through DeFi Farming mechanics.
+These tools make large usage of [Open-Rpc Near Client Generator](generator) and the [Open RPC Near Token Standards](https://github.com/swappland/open-rpc-near-token-standards). Refer to the
+OpenRPC specification and the JSON schema specification to get started.
 
-## What is Swappland? 
-[Swappland](https://swapp.land) is a p2p Marketplace for Near, where people can trade NFT for NFT or Near for NFT, and eventually all forms of tokens for an NFT. We allow anyone to list any in their wallet for trade. This is the dev friendly client. 
+
+[generator]: https://github.com/shipsgold/open-rpc-near-client-generator
+[market-spec]: https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/swappland/swappland-market-contract-spec/main/build/openrpc.json&uiSchema[appBar][ui:splitView]=false&uiSchema[appBar][ui:input]=false&uiSchema[appBar][ui:examplesDropdown]=false
+[openrpc]: https://open-rpc.org
 
 ## Usage
 
