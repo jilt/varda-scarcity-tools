@@ -8,7 +8,10 @@ OpenRPC specification and the JSON schema specification to get started.
 [market-spec]: https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/swappland/swappland-market-contract-spec/main/build/openrpc.json&uiSchema[appBar][ui:splitView]=false&uiSchema[appBar][ui:input]=false&uiSchema[appBar][ui:examplesDropdown]=false
 [openrpc]: https://open-rpc.org
 
-## Usage
+## What for
+
+This tool allows NFT collectors to swap their nfts with the Varda smart contract allowing them to get seed tokens from [the ref.finance farms smart contracts](https://guide.ref.finance/developers-1/cli-farming#stake-unstake-seed)
+or farming rewards from [the burrowland farming contracts]: https://github.com/NearDeFi/burrowland/blob/main/contract/API.md
 
 ### Installation 
 ```
