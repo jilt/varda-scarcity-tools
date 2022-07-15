@@ -1,5 +1,5 @@
 # Varda Scarcity tools 
-Built to allow floor price control for large NFT collections through DeFi Farming mechanics.
+Built to allow floor price control for large NFT collections through DeFi Farming mechanics on NEAR.
 These tools make large usage of [Open-Rpc Near Client Generator](generator) and the [Open RPC Near Token Standards](https://github.com/swappland/open-rpc-near-token-standards). Refer to the
 OpenRPC specification and the JSON schema specification to get started.
 
